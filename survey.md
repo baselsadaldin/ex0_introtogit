@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: black
+Favorite food: steak
+Favorite musician/band:roy kharman
+Favorite movie: interstellar
+Requested grade in the course: 85
